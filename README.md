@@ -56,6 +56,7 @@ Python visualizations were used to:
 •	Visualize genre investment
 •	Compare audience segments
 •	Detect release patterns
+
 Dashboard Development
 An executive dashboard was built in Power BI featuring:
 •	KPI cards (Total Titles, Movies, TV Shows, Top Genre, Top Country, Average Content Age)
@@ -64,6 +65,7 @@ An executive dashboard was built in Power BI featuring:
 •	Audience rating distribution
 •	Content freshness analysis
 The dashboard was designed using Netflix-themed visual hierarchy and strategic color emphasis.
+
 Key Findings
 •	Movies dominate the catalog.
 •	TV Shows are gradually increasing.
@@ -73,6 +75,7 @@ Key Findings
 •	TV-MA rating dominates (mature audience focus).
 •	Average release delay is ~6 years.
 •	New content dominates catalog freshness
+
 Learning Outcomes
 This project strengthened skills in:
 •	Data cleaning & transformation
